@@ -4,6 +4,7 @@
   "description": "Products api rest",
   "main": "index.js",
   "dependencies": {
+    "dotenv": "^5.0.1",
     "express": "^4.16.3"
   },
   "devDependencies": {
@@ -24,7 +25,12 @@
     "type": "git",
     "url": "git+https://github.com/Carverok/products-api-rest.git"
   },
-  "keywords": ["Api", "Products", "Node", "Express"],
+  "keywords": [
+    "Api",
+    "Products",
+    "Node",
+    "Express"
+  ],
   "author": "Nayib Ayús",
   "license": "MIT",
   "bugs": {
